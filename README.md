@@ -7,7 +7,7 @@
 Terraform IAM User : terraform
 
 ```
-export AWS_PROFILE=techblog
+export AWS_PROFILE=sample
 ```
 
 ## terraform 통해서 group, user 생성
